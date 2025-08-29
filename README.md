@@ -1,2 +1,3 @@
-# JavaProject
-Java Project Description5
+# Bank Management System (JavaProject)
+The Bank Management System is a Java-based software application designed to modernise and automate essential banking operations. It provides a secure and efficient platform for managing customer accounts, processing transactions, and maintaining accurate records, thereby reducing manual intervention and minimising human error.
+The primary objective of this project is to deliver a reliable and user-friendly system which enables bank staff and customers to carry out routine banking activities such as account management, deposits, withdrawals, and balance enquiries with ease and accuracy.
